@@ -10,5 +10,6 @@ config:
       - "Il pleut des hamburgers."
       - "Aye! Fais-tu frête?"
       - "On es-tu ben dans z'un coton ouaté?"
+      - "Clément test"
 exemple:
-  chiffrement: '{cipher}e51802b3eb95a8ca3dd6258091810503460dfc2ec307c84cd16a1a44d2580b9a'
+  chiffrement: '{cipher}0967071c702c9766d6fa2fe6fd38c229e5545d885dd9d470f221e34064f313ac'
