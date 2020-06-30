@@ -2,14 +2,15 @@
 config:
   weatherforecast:
     summary:
-      - "1Nuageux avec probabilite d'averse."
-      - "1Belle journée ensoleillé."
-      - "1Soleil avec passage nuageux."
-      - "1De la pluie en fin de journée."
-      - "1Fort orage ce soir et cette nuit."
-      - "1Il pleut des hamburgers."
-      - "1Aye! Fais-tu frête?"
-      - "1On es-tu ben dans z'un coton ouaté?"
-      - "1Clément test"
+      - "2Nuageux avec probabilite d'averse."
+      - "2Belle journée ensoleillé."
+      - "2Soleil avec passage nuageux."
+      - "2De la pluie en fin de journée."
+      - "2Fort orage ce soir et cette nuit."
+      - "2Il pleut des hamburgers."
+      - "2Aye! Fais-tu frête?"
+      - "2On es-tu ben dans z'un coton ouaté?"
+      - "2Clément test"
+      - "Toto"
 exemple:
   chiffrement: '{cipher}0967071c702c9766d6fa2fe6fd38c229e5545d885dd9d470f221e34064f313ac'
